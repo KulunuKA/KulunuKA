@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN stack , flutter**
 
-- 💬 Ask me about **Web, Android app**
+- 💬 Ask me about **Web, Mobile app**
 
 - 📫 How to reach me **kulunukasthur38@gmail.com**
 
