@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Web, Mobile app**
 
-- 📫 How to reach me **kulunukasthur38@gmail.com**
+- 📫 How to reach me **kulunu.k.arachchi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
